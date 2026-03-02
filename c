@@ -1,2 +1,2 @@
-printf("hello world")
-printf("enter number")
+printf("hello world");
+printf("enter number");
